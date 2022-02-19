@@ -26,6 +26,7 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 
+<br/>
 
 ## Stats
 
