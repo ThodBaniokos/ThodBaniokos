@@ -40,7 +40,7 @@
 
 - Undergraduate student at <a href="https://www.di.uoa.gr/en">Univeristy of Athens, Department of Informatics and Telecommunications</a>.
 - Intrested in <a href="https://en.wikipedia.org/wiki/Video_game_development">game development</a> and <a href="https://en.wikipedia.org/wiki/Software_development">software development</a>.
-- I'm currently learing the <a href="https://unity.com/">Unity 3D Game engine</a>.
+- I'm currently learning the <a href="https://unity.com/">Unity 3D Game engine</a>.
 
 
 
