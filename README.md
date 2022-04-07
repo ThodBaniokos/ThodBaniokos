@@ -39,9 +39,9 @@
 
 ## About
 
-<a href="https://www.linkedin.com/in/thodoris-baniokos-b25291232/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a target="_blank" href="https://www.linkedin.com/in/thodoris-baniokos-b25291232/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-<a href="https://twitter.com/TBaniokos" target="_blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a target="_blank" href="https://twitter.com/TBaniokos"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   
 ![GitHub followers](https://img.shields.io/github/followers/ThodBaniokos?style=for-the-badge&logo=github)
 
